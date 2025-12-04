@@ -1,0 +1,4 @@
+Exercício modulo 8 onde foi necessário solicitar o nome e um número ao usuário
+após isso seria exibido a contagem crescente e decrescente do número digitado pelo usuário e
+se o nome dele tivesse mais que 6 letras, o nome seria exibido n vezes, caso contrario seria exibido
+apenas uma vez.
